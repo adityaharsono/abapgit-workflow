@@ -10,3 +10,5 @@ REPORT ZTESTING_ABAPGIT.
 
 WRITE: 'Testing ABAP Git'.
 "Testing ABAP git
+
+"ok coba pull
